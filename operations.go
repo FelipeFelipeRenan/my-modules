@@ -1,5 +1,5 @@
 package power
 
-func power2(n int) int {
+func Power2(n int) int {
 	return n * n
 }
